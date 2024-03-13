@@ -1,0 +1,17 @@
+
+.header{
+    background-image: url(../imgs/a-rocky-beach-with-waves-crashing-against-it-bkqdk4yu.jpeg);
+    background-position: center;
+    background-size: cover;
+    }
+    .title{
+      border-radius: 10px;
+      background-color: rgba(225, 225, 225,0.2);
+    }
+    #quote p{
+    color :#1C2D37;
+    }
+    .titlehead{
+    color :#454E5B;
+    
+    }
